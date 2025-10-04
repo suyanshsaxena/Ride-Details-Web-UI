@@ -30,11 +30,12 @@ It provides a clean and modern way to display **trip details, driver info, fare,
 
 ```
 ride-details-ui/
-│-- index.html       # Main UI file
-│-- style.css        # (Optional) external stylesheet (currently inline in index.html)
-│-- img2.jpg         # Driver profile photo
-│-- img3.jpg         # Map image
-│-- README.md        # Documentation
+│-- index.html                  # Main UI file
+│-- style.css                   # external stylesheet
+│-- img2.jpg                    # Driver profile photo
+│-- img3.jpg                    # Map image
+│-- README.md                   # Documentation
+|-- Project ScreenShot.PNG      # Project Screenshot
 ```
 
 ---

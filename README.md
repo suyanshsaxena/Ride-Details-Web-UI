@@ -46,10 +46,10 @@ You can update ride details directly in `index.html`.
 ### 🔹 Change Driver Name
 
 ```html
-<h1>Bike ride with<br><strong>PRASHANT</strong></h1>
+<h1>Bike ride with<br><strong>DRIVER NAME</strong></h1>
 ```
 
-➡ Replace `PRASHANT` with the driver’s name.
+➡ Replace `Driver Name` with the driver’s name.
 
 ---
 
